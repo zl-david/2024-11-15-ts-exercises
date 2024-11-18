@@ -52,4 +52,24 @@ node dist/index.js
 
 ## 02 Basic Types
 
+[exercise.ts](./02-basic-types/exercise.ts)
+
 ## 03 Classes
+
+[exercise.ts](./03-classes/exercise.ts)
+
+## 04 Advanced Types
+
+[exercise.ts](./04-advanced-types/exercise.ts)
+
+## 05 More Generics
+
+[https://github.com/zl-david/typescript-generics-workshop](https://github.com/zl-david/typescript-generics-workshop)
+
+## 06 TsDD: Mini project
+
+[exercise.ts](./06-tsdd/exercise.ts)
+
+## 07 Generics, function overload & union types in React
+
+[README.md](./07-generics-react/README.md)
