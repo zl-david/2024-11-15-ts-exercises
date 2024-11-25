@@ -72,6 +72,7 @@ const colors = /* TODO */ {
 // Expected: `colors.red` should only be "#ff0000"
 
 // --- 6. ---
+// TODO: gebruik function overload
 // Create a function `describe` that accepts either a string or an array of strings.
 // If it's a string, return its length. If it's an array, return the total number of characters.
 
@@ -98,6 +99,7 @@ function updateTask(task: Task, updates /*:  TODO */): Task {
 
 const task = { id: 1, title: "Learn TypeScript", completed: false };
 const updatedTask = updateTask(task, { completed: true });
+
 // Expected: { id: 1, title: "Learn TypeScript", completed: true }
 
 // --- 8. ---

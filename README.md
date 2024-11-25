@@ -64,7 +64,7 @@ node dist/index.js
 
 ## 05 More Generics
 
-[https://github.com/zl-david/typescript-generics-workshop](https://github.com/zl-david/typescript-generics-workshop)
+[https://github.com/zl-david/typescript-generics](https://github.com/zl-david/typescript-generics)
 
 ## 06 TsDD: Mini project
 

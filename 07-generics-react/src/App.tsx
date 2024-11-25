@@ -9,7 +9,7 @@ function App() {
       />
       */}
 
-      {/* 2. Define the FormInput component with a generic type that determines the type of the value. */}
+      {/* 2. Define the FormInput component so that it is automatically typed. The value can be a number or a string. */}
       {/*
         <FormInput value="Hello" onChange={(value) => console.log(value)} />
         <FormInput value={10} onChange={(value) => console.log(value)} />

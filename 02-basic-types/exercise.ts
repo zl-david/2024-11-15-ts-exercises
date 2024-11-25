@@ -1,4 +1,5 @@
 // You can run/execute TypeScript files directly with "bun": https://bun.sh/
+// If types can be multiple things, you can choose the type you want
 
 // 1. Reverse a string
 function reverseString(input: any): any {
@@ -7,7 +8,7 @@ function reverseString(input: any): any {
 
 // 2. Add two numbers
 function add(a: any, b: any): any {
-  return a + b;
+  return a.toString() + b;
 }
 
 // 3. Check if a number is even
